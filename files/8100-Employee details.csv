@@ -1,0 +1,41 @@
+id,Name,Father_Name,Date_of_Join,M2_Permenant_Date,Date_of_Resignation,Date_of_Birth,Mobile_NO,Postal_Address,Name_of_Nominee,Salary,Designation,Aadhar_No,PAN,Bank_AC_Number,IFSC_code,Emp_status,Company_Name,Created_on
+,M.Maheswari,Manokaran,03-01-2010,12/19/2019,NA,09-03-1984,9884130991,"C/o, Kaliyaperumal
+No.14A, Narayani Illam, Kalidasan Street,
+Ullagaram, Kanchipuram, Madipakkam
+Chennai - 600091",Kaliyaperumal S,35000,Director,5.33E+11,"AXZPM4463F
+",805206087,IDIB000P193,On Roll,M2-Data Studio,
+,A.Malathi,Arumugam,06-10-2015,12/19/2019,NA,20-Jun-88,9500174756,"New No.2, Old No.28, Kuppuswamy Street,
+Vetri Nagar,
+Chennai 600082",Vasanth Kumar B,35000,Director,2.62E+11, DEFPM5063F,5.55E+14,LAVB0000555,On Roll,M2-Data Studio,
+,KARTHIK J,R.Jayaraj,01-06-2017,02-03-2020,NA,26-Jul-84,8939062747,"No. 174/109, 
+Canal bank road , Kasthuri bai nagar, 
+Adyar, Chennai-600020",M.KAVIPRIYA,50000,Sr. Data Analyst,5618 6065 9434, AXTPK7744H,4.00E+11,ICIC0003995,On Roll,M2-Data Studio,
+,C.DHIVYA BHARATHI,K.CHINNA DURAI,01-09-2019,01-02-2020,NA,05-Apr-93,9025312077,"NO.18, 4th MAIN ROAD, 
+HINDU COLONY,
+PUZHUTHIVAKKAM,
+CHENNAI-600091",Satish K,29000,Software Engineer,5163 1212 7022, BTHPD9831P,6031348562,IDIB000V003,Resigned,M2-Data Studio,
+,M.KAVIPRIYA,K.Manoharan,02-04-2019,02-03-2020,NA,18-May-91,9384649199,"No. 174/109, 
+Canal bank road , Kasthuri bai nagar, 
+Adyar, Chennai-600020",J.karthik,29000,Software Engineer,6.06E+11, HTMPK1333N,4.00E+11,ICIC0003995,On Roll,M2-Data Studio,
+,SARANYA M,Manoharan. K,03-08-2019,11-02-2020,NA,29-Oct-85,9092040885,"51/F3 Jagdev Apts 1st flr, Old state bank colony 2nd st, 
+West Tambaram, 
+Chennai-45",Ganesan. G,29000,Data Analyst,2940 0759 4476, CIIPS4234G,1.90E+11,ICIC0001898,Resigned,M2-Data Studio,
+,GOKULAKANNAN A,Alagar Ramanujam G,06-05-2019,11-02-2020,NA,16-Feb-95,7708161685,"Permanent address: 1/225/6, Balaji nagar, Kooraikundu, Virudhunagar, Tamilnadu - 626003
+
+Communication address: 1/226 - 5A2, 2nd street, CO Colony, Collectorate(opposite), Kooraikundu, Virudhunagar - 626002",Kowsalya devi S,21000,Software Engineer,3055 3077 5027,DETPG9661H,32347886858,SBIN0000951,Resigned,M2-Data Studio,
+,GOPINATH S,S. Subramani,09-02-2019,03-01-2021,NA,29-Mar-84,9551084445,"9/7, Loganatha Nagar 3rd street, Choolaimedu, Chennai – 600 094",G. Santhalakshmi,29000,Software Engineer,4176 2298 6050,AQUPG7231P,04-6300-3000-6262,KKBK0000469,Resigned,M2-Data Studio,
+,VINOTHKUMAR M,Muruganandham. G,02-03-2020,11-02-2020,NA,25-Sep-97,9585694546,2/99 East street chandrasekarapuram(po) valangaiman 612804 thiruvarur(dis),Muruganandham. G,15000,Software Engineer,9426 2964 9242, BTBPV7181G,38487137291,SBIN0018178,Resigned,M2-Data Studio,
+,SUGANYA H,S.Harikrishnan,10-07-2019,01-Apr-21,NA,07-Jul-91,9962790172,"C/o.Ragavan, 3/333, Vallalar Street
+MA Nagar, Redhills, Tiruvallur,
+Tamil Nadu - 600052",B.Ragavan,21000,Software Engineer,7.13E+11,EZAPS5178a,3.26E+12,CNBR0003261,On Roll,M2-Data Studio,
+,BALAJI G,Gnanasambandam,10-07-2019,03-May-21,NA,03-Feb-81,9629737470,"S/o: Gnanasambandam, 
+373/1/200, Bank Nagar, Puthuvasur,
+Alamelumangapuram, Vellore,
+Tamil Nadu - 632009",D. Padmavathy,35000,Data Analyst,3.84E+11,AOGPB3608B,1.87E+13,HDFC0001038,Resigned,M2-Data Studio,
+,GEETHA BHARATHI V S,Srinivasa Raghavan,11/25/2019,03-May-21,NA,21-Apr-91,8072903687,"D/O: Srinivasa Raghavan,2 , F1,
+Rangasamy Street, Golden George Nagar,
+Mogappair East, Chennai - 600037",V.Srinivasa Raghavan,29000,Data Analyst,4.79E+11,AXHPG6926H,5.00E+14,CIUB0000349,Resigned,M2-Data Studio,
+,KABILAN K,Kannan,11/25/2019,03-May-21,NA,01-Dec-93,8489560543,"13/39 A, Chennappar street, Tiruvannamalai - 606601",Jayashree S,29000,Data Analyst,5.21E+11,GEFPK8870H,612937528,IDIB000T111,Resigned,M2-Data Studio,
+,SHARMILA,Baskaran,01-02-2020,01-Jun-21,NA,14-Nov-94,7338772838,"C68 5th cross street,kurinji nagar, 
+Ramapuram, Chennai 600089",Jagan.K,21000,Software Engineer,8.66E+11, GDGPS0775D,5.01E+13,HDFC0004104,Resigned,M2-Data Studio,
+,,,,,,,,,,,,,,,,,,
